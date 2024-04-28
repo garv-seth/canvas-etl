@@ -1,0 +1,14 @@
+{
+    "type": "service_account",
+    "project_id": "quantum-reducer-421620",
+    "private_key_id": "0b39e7d05c0bbf6443a30eef9fd8d69478643ac2",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCSRj/R7jnPBzfz\nkriRn1hvuA9W4KheXymM7bv3KfcQJm4foj0gzB1PUeAoRH1VVFb1BKOMw/TM0kgr\nU9F39OLDAoGJhvGV9YTlubSZSVpssR6B2TNoT0bpgGuHdJuxwLxZkQisMtiHU0Ly\nqjpot3B2TILaD0IpLSzg7AOxdR84ZWJZvjZEjBE0xvg2KTwjRlE5yejjNQfr7faR\nm72pH/QBMLBC7kbTKr6QBc93z0JDQqa8KA0Gnu/3nq8SaSreBxlboQ14vdXStGzU\n6YghaBCBwnae5aEYD1ciTeACCgQv42OjwSjlToI7dhDeIiAJiYnHzHc8QdwtRwG9\n4kmkBb3zAgMBAAECggEAEOATkdEgOzm+eJaB6PmktsgvK4Xh9s1CGmpSR/q/8E2M\nC+XoPns98GjmPvmz1J8qebxYxVnVdAyDMKMhZJZMflSw2XXHiQDucvW17QSmRCmP\noZ8Ldr/FUxVdPR80rSZVXydD2bXzVB1veQEu7uYm49xXhk0XWW/G9dtUtmmS5KsP\nqmMNXoEMLhB18ft73K31Q1nnlB/wN7xSAwMcYkHQy686iLh7eA4WaF1iEHJ3mUl+\nPv2CHbXLUFj1DnKR0go983V1PXkIcv8NCamPHy7U6pRCBXesL7+tX8KEkWyY0oVL\n3Fvxw06OVD9BW6wKSBMQ4rgOJUay6bs4Ivf87o0+1QKBgQDGd5jdxRECz1B1Ipa3\n10lCoEMgg/tu1nqNKVf7TbwrueMpKtOlaRIKtk5/+O/hFn1YRmLxDCyKeWgqg3rM\n6pIx8hOuxFBlNmLbLt4w1zwDVXx8d4BuuUqJ65gz6OLKivvvNXhqu0B4uYnfoNth\nQGZJ4D8yhjo0yuD3eaAklD5lZQKBgQC8rWL7gM3SwB1mt1C+8iOliAWBxRrxuzRu\njFZEOfyvuyCCxIGfTXp0MSs73QEc0o6HEoWAiuQghJ64oW4+A0zn5X697GdTTJ2A\nZtOq6w2jKKIexpYyRXJyjEHgLMY+2UkABmPCCFflMfCbeqj0ON2DaizQsEpcQRgV\nvQXC2mZsdwKBgQCtDngzWLUemBt2KDT4FTeCazBdV/iUi1zNXjGjpgLgtfRIX1mx\nsE7VHGaS3ER/JxchNC7uNUlZbcfQ2ljn+dqExqs3B2N6/dNxgAqq1+MynQYxmhpZ\nciR24wISsY2gQ1SvHxbjKmhrXI3GfAMPaBJJdMpmifiTNBy6bkmf28wUqQKBgGRl\nusrrohon4j07BHtmq3M0qwF/mbPRkrfUcz8AwCXeZBFRcUwMVUGovEGxexsUK4VS\nZLmern9jMnY6aEgVR4IKC2QSfHTFyvV9QdqsEuikAYhw0ZFUhO7RFWitSpw80Oxz\neffQqryp00dYgLjb3XtFLy2o8RigBqnimEM0JdZHAoGAODRNoMVkJB5zSaImDKgn\nNKZRJeVJf1XxWpPCWFt3rzVxjLGudtL/Ux9pZstWUtHb3QyAP3DfmD7C9Ke/Joq0\nUu4ec42iIDYXom8A0M6Z5x6aihG5bdS2QRQxuoIjCldto+Jc/libq57v1PdSMiuq\nre5RcUlmihM0QcV9dRiToo4=\n-----END PRIVATE KEY-----\n",
+    "client_email": "webflow@quantum-reducer-421620.iam.gserviceaccount.com",
+    "client_id": "117603778814675906101",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/webflow%40quantum-reducer-421620.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+  }
+  
